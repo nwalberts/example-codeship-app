@@ -1,0 +1,1 @@
+[![Codeship Status for nwalberts/example-codeship-app](https://app.codeship.com/projects/806c7959-41df-4f84-b2ee-3d0e3c0a86be/status?branch=master)](https://app.codeship.com/projects/442447)
